@@ -1,5 +1,5 @@
 # EX. NO: 1(A) : IMPLEMENTATION OF CAESAR CIPHER
-## NAME: D.BALA SURAMANYAM
+## NAME: D.BALA SUBRAMANYAM
 ## REG.NO: 212224040062
 ## AIM:
 To implement the simple substitution technique named Caesar cipher using C language.
